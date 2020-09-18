@@ -2,6 +2,8 @@
 
 CSS libraries that are available in DXP and how to import in your module or theme
 
+## atlas
+
 ### What does it provide?
 Table of variables, mixins, functions
 
@@ -25,7 +27,7 @@ buildCSS {
 ### How to use it?
 Example of code
 
-## atlas
+## atlas-variables
 
 ## clay
 
